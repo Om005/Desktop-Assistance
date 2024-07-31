@@ -29,9 +29,9 @@ This project is a voice assistant named Jarvis that uses speech recognition, web
     pip install -r requirements.txt
     ```
 
-3. Set up the Google Gemini API key:
+3. Write your gemini api key here:
     ```bash
-    export GEMINI_API_KEY=your_gemini_api_key
+    os.environ["GEMINI_API_KEY"] = "YOUR_GEMINI_API_KEY"
     ```
 
 ## Usage
