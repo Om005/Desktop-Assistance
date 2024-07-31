@@ -9,6 +9,7 @@ This project is a voice assistant named Jarvis that uses speech recognition, web
 - **Music Playback**: Plays music from a specified directory.
 - **AI Responses**: Uses Google Gemini AI for generating responses to user queries.
 - **Date and Time**: Provides the current date and time on request.
+- **Casual talk**: Make a casual talk with it
 
 ## Prerequisites
 
